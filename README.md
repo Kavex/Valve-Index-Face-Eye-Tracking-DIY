@@ -1,5 +1,9 @@
 ## Valve-Index-Face-Eye-Tracking-DIY
 
+So you want Eye and Face Tracking? Do you have soldering skills? Update firmware on ESP32s?
+
+You will need to know the basics or at least try to figure stuff out on your own. It's not easy, but with effort you can do it.
+
 This is my face and tracking built with EyeTrackVR and Babble Face Tracking
 
 Big Thanks to the following people
@@ -12,15 +16,11 @@ https://github.com/EyeTrackVR/EyeTrackVR
 
 https://github.com/SummerSigh/ProjectBabble and https://github.com/Project-Babble/ProjectBabble
 
-So you want Eye and Face Tracking? Do you have soldering skills? Update firmware on ESP32s?
-
-You will need to know the basics or at least try to figure stuff out on your own. It's not easy, but with effort you can do it.
-
 ## **Parts:**
 
 *   **Eye IR LEDS**: I would highly recommend the kits from https://store.eyetrackvr.dev/products/v4-mini-fully-solderless-kit
 
-You can buy IR LEDS yourself, and I would recommend doing your research!
+If you buy the IR LEDS yourself, then I would recommend doing your research!
 
 Please read https://github.com/EyeTrackVR/EyeTrackVR?tab=readme-ov-file#about-ir-emitter-safety
 
@@ -65,4 +65,16 @@ Get 3 Seeed Studio XIAO ESP32S3 with the Camera Module
     
 *   **3D Printer**: if you don't have one then go to your local library or maker space. All else fails use an online service to print parts or use lots of tape. idk your call. 
 
-*   Tools: heat gun, soldering iron, solder, wire, computer, dremel, brains, safety glasses
+*   **Tools**: heat gun, soldering iron, solder, wire, computer, dremel, brains, safety glasses
+
+## **Setting up the ESP32**
+
+* Download Software: 
+  
+Babble App: https://github.com/Project-Babble/ProjectBabble/releases
+
+VRCFaceTracking: https://docs.vrcft.io/
+
+EyeTrackVR FirmwareFlashingTool: https://github.com/EyeTrackVR/FirmwareFlashingTool/releases
+
+
