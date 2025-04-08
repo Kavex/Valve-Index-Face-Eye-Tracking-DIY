@@ -77,23 +77,31 @@ Get 3 Seeed Studio XIAO ESP32S3 with the Camera Module
 
 ## **Setting up the ESP32**
 
-* Download Software: 
-  
-Babble App: https://github.com/Project-Babble/ProjectBabble/releases
+* Flashing ESP32: 
 
-VRCFaceTracking: https://docs.vrcft.io/
-
-EyeTrackVR FirmwareFlashingTool: https://github.com/EyeTrackVR/FirmwareFlashingTool/releases
+Download EyeTrackVR FirmwareFlashingTool: https://github.com/EyeTrackVR/FirmwareFlashingTool/releases
 
 ![image](https://github.com/user-attachments/assets/7a1142df-d631-4062-9e5b-9e890df5928b)
 
 ## **3D Printning**
+
+If you don't own a 3D Printer you can always use a service, read more here https://docs.eyetrackvr.dev/misc/jlc3dp
 
 Soon
 
 ## **Wiring**
 
 Soon
+
+## **Software and Setup**
+
+Babble App: https://github.com/Project-Babble/ProjectBabble/releases
+
+EyeTrack App: https://github.com/EyeTrackVR/EyeTrackVR/releases
+
+VRCFaceTracking: https://docs.vrcft.io/
+
+
 
 
 
