@@ -32,11 +32,14 @@ Ribbon: https://www.aliexpress.us/item/3256802223169786.html
 
 Pins: 24P
 
-Connector Type: B-Reverse Direction
+Connector Type: A-Forward Direction if you are using the Connector Suggested
 
 Insert Type: 0.5MM
 
 Length: Get both, they are cheap.
+
+![image](https://github.com/user-attachments/assets/59980211-8a0f-42b4-a15f-da6dbc2a162d)
+
 
 Connector: https://www.aliexpress.us/item/3256804096715690.html
 
