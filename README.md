@@ -63,7 +63,7 @@ Resistors for Face IR Emitters: https://www.aliexpress.us/item/3256806544238902.
 *   **Wire 28 AWG**
 *   **Tracker Boards**: https://www.aliexpress.us/item/3256804601970891.html
 
-Get 3 Seeed Studio XIAO ESP32S3 with the Camera Module
+Get 3 Seeed Studio XIAO ESP32S3 with the Camera Module, You can use other types of ESP32s if you want but these are the smallest to us. Honestly worth the extra few bucks. 
 
 ![image](https://github.com/user-attachments/assets/cc51ce85-b8ad-46c3-86c3-22354182edf3)
 
@@ -77,11 +77,25 @@ Get 3 Seeed Studio XIAO ESP32S3 with the Camera Module
 
 ## **Setting up the ESP32**
 
+* Windows Drivers
+
+Read https://wiki.seeedstudio.com/Seeeduino-XIAO/#software
+
+It will have you download https://www.arduino.cc/en/software and install the Seeed Studio XIAO Board Module so Windows can see the COM Device
+  
 * Flashing ESP32: 
 
 Download EyeTrackVR FirmwareFlashingTool: https://github.com/EyeTrackVR/FirmwareFlashingTool/releases
 
+Open FirmwareFlashingTool and Select xiaosense3_usb
+
+![image](https://github.com/user-attachments/assets/fa3d08e8-0c1c-4b17-a6e7-801167122fad)
+
+You will need to put your ESP32 into Boot Mode which requires holding the Boot Mode Button when plugging in the USB C but I find it easier to hit the reset button then hold the Boot Mode button
+
 ![image](https://github.com/user-attachments/assets/7a1142df-d631-4062-9e5b-9e890df5928b)
+
+Select the correct COM port for the device under auto and hit install Openiris. Once it is done you can replug in the USB C on the ESP32. Select the COM Port again and you should be able to download logs. If you see logs then you are ready to test the camera on them. You can test the camera with the Babble App or EyeTrack App listed in the software section.
 
 ## **3D Printning**
 
