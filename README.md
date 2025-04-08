@@ -18,6 +18,8 @@ https://github.com/SummerSigh/ProjectBabble and https://github.com/Project-Babbl
 
 ## **Parts:**
 
+Here is a decent parts builder from EyeTrackVR to give you an idea: https://docs.eyetrackvr.dev/how_to_build/part_list
+
 *   **Eye IR LEDS**: I would highly recommend the kits from https://store.eyetrackvr.dev/products/v4-mini-fully-solderless-kit
 
 If you buy the IR LEDS yourself, then I would recommend doing your research!
@@ -82,5 +84,18 @@ Babble App: https://github.com/Project-Babble/ProjectBabble/releases
 VRCFaceTracking: https://docs.vrcft.io/
 
 EyeTrackVR FirmwareFlashingTool: https://github.com/EyeTrackVR/FirmwareFlashingTool/releases
+
+![image](https://github.com/user-attachments/assets/7a1142df-d631-4062-9e5b-9e890df5928b)
+
+## **3D Printning**
+
+Soon
+
+## **Wiring**
+
+Soon
+
+
+
 
 
