@@ -6,7 +6,7 @@ You will need to know the basics or at least try to figure stuff out on your own
 
 This is my face and tracking built with EyeTrackVR and Babble Face Tracking
 
-Big Thanks to the following people
+Big Thanks to the following people and communities. Thanks Guys! Bookmark these pages. 
 
 https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW
 
