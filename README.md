@@ -26,24 +26,25 @@ Please read https://github.com/EyeTrackVR/EyeTrackVR?tab=readme-ov-file#about-ir
 
 *   **IR Cameras**: 3x OV2640 160 Degrees 850nm Night Vision https://www.aliexpress.us/item/3256804332354572.html
 
-It's going to be really hard to get a 200mm length one, so you most likely will need some extensions. Make sure you get the 24Pin at 0.5MM
+Warning: it's getting harder to find OV2640 since it's discontinued but the ov5640 should work as of 2025-01-11 per to OpenIris's changelog. I only have OV2640 since that is what I ordered. 
+
+It's going to be really hard to get a 200mm length one, like impossible without some special order but i got you covered using extensions. (Make sure you get the 24Pin at 0.5MM Insert size)
 
 Ribbon: https://www.aliexpress.us/item/3256802223169786.html
 
 Pins: 24P
 
-Connector Type: A-Forward Direction if you are using the Connector Suggested
-
-Insert Type: 0.5MM
-
-Length: Get both, they are cheap.
+Connector Type: A-Forward Direction if you are using the Connector I suggested below
 
 ![image](https://github.com/user-attachments/assets/59980211-8a0f-42b4-a15f-da6dbc2a162d)
 
+Insert Type: 0.5MM
+
+Length: Get both size lengths, like ribbons are cheap and it's better to have spares and other sizes.
+
+![image](https://github.com/user-attachments/assets/486b60d0-4bf4-49a2-8df6-1d927cf5fe3f)
 
 Connector: https://www.aliexpress.us/item/3256804096715690.html
-
-I ordered some custom ones from here https://www.alibaba.com/product-detail/Custom-OV2640-200mm-66-degree-160_1601401169934.html
 
 *   **Face IR LEDs (5mm 850nm IR Through Hole LEDS**): https://www.aliexpress.us/item/3256803759925241.html
 
