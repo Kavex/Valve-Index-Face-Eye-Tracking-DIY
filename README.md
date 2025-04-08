@@ -40,6 +40,8 @@ Length: Get both, they are cheap.
 
 Connector: https://www.aliexpress.us/item/3256804096715690.html
 
+I ordered some custom ones from here https://www.alibaba.com/product-detail/Custom-OV2640-200mm-66-degree-160_1601401169934.html
+
 *   **Face IR LEDs (5mm 850nm IR Through Hole LEDS**): https://www.aliexpress.us/item/3256803759925241.html
 
 (Choose "F5mm 850nm") 5mm 850nm IR Through Hole LEDS
