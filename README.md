@@ -105,6 +105,7 @@ Go to https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW and get the files
 
 I personally printed [Gum Stick Remix for 3x ESPs plus USB Hub](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/tree/main/Gum%20Stick%20Remix%20for%203x%20ESPs%20plus%20USB%20Hub/Origional%20GSR%20Design%20(Cheap%20USB%20Hub))
 
+<img width="794" height="351" alt="image" src="https://github.com/user-attachments/assets/e68b9f58-c482-4f72-8e05-46b10a56e49e" />
 
 
 ## **Wiring**
