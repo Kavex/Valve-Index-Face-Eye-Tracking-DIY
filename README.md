@@ -101,11 +101,35 @@ Select the correct COM port for the device under auto and hit install Openiris. 
 
 If you don't own a 3D Printer you can always use a service, read more here https://docs.eyetrackvr.dev/misc/jlc3dp
 
-Soon
+Go to https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW and get the files or make your own 
+
+I personally printed [Gum Stick Remix for 3x ESPs plus USB Hub](https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW/tree/main/Gum%20Stick%20Remix%20for%203x%20ESPs%20plus%20USB%20Hub/Origional%20GSR%20Design%20(Cheap%20USB%20Hub))
+
+
 
 ## **Wiring**
 
-Soon
+Some helpfull pictures on https://github.com/Physics-Dude/Phys-Index-EyetrackVR-HW
+
+Items:
+[Liquid Solder Flux](https://www.amazon.com/Liquid-Dropper-Soldering-Electrical-Electronics/dp/B0CN29BZKV)
+
+Solder Iron and Solder
+
+Wire 28-30 AWG
+
+Helping hands if you got them
+
+1. If you got the v4 mini fully solderless kit then you will need to solder two wires on the bottom if you want to have the gum stick power it.  
+
+<img width="150" height="200" alt="image" src="https://github.com/user-attachments/assets/a263fed1-e6d2-4ea0-9851-14317ab69972" />
+
+2. Soldering Seeed Studio XIAO ESP32S3
+
+<img width="150" height="200" alt="image" src="https://github.com/user-attachments/assets/4e703e23-4c0b-4fe3-8b07-22f8c19a6f43" />
+   
+<img width="300" height="160" alt="image" src="https://github.com/user-attachments/assets/13b694e0-bc90-4bea-b6e6-ead6c737fb2f" />
+
 
 ## **Software and Setup**
 
